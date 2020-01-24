@@ -1,0 +1,6 @@
+node_modules
+node_modules/*
+resources/css/app.css
+resources/js/app.js
+.DS_Store
+package-lock.json
