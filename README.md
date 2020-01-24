@@ -1,7 +1,7 @@
 # Basic-VueJS-Bootstrap-SPA
 
 
-View [Demo site](https://daniel-rees.github.io/Basic-VueJS-Bootstrap-SPA/public/).
+View [Demo site](https://daniel-rees.github.io/Basic-VueJS-Bootstrap-SPA/).
 
 
 ### Requirements
